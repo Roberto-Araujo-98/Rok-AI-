@@ -37,7 +37,7 @@ El sistema se divide en dos componentes independientes que se comunican localmen
 │   - Procesamiento optimizado en CPU    │
 └────────────────────────────────────────┘
 ```
-
+SDK
 ---
 
 ## 🛠️ Stack Tecnológico y Estrategia de Optimización
